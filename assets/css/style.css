@@ -1,0 +1,17 @@
+body{
+    background-color: aquamarine;
+    border: black;
+}
+
+h1{
+    font-size: 100px;
+    text-align: center;
+}
+
+form{
+    background-color: rgb(187, 241, 223);
+    font-size: 20px;
+    height: 300px;
+    width: 500px;
+    text-align: center;
+}
