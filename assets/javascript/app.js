@@ -13,16 +13,16 @@ var correct = 0;
 
 
     if (question1 == "The Amazon River") {
-        correct++;
+        correct ++;
 }
     if (question2 == "Greenland") {
-    correct++;
+    correct ++;
 }
     if (question3 == "Pacific Ocean") {
-    correct++;
+    correct ++;
 }
 
 
-    document.getElementById ("after submit").style.visibility = "visible";
-    document.getElementById ("number correct").innerHTML = "You got " + correct + " correct.";
+    document.getElementById ("after_submit").style.visibility = "visible";
+    document.getElementById ("number_correct").innerHTML = "You got " + correct + " correct.";
 }
